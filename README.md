@@ -3,7 +3,7 @@ Read certificates from the Windows Cert Store from node.js.
 ## Installation
 
 ```
-npm i windows-certs
+npm i node-windows-certs
 ```
 
 ## Usage
