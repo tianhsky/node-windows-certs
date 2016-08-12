@@ -1,18 +1,18 @@
 {
-  "name": "windows-certs",
-  "version": "3.1.0",
+  "name": "node-windows-certs",
+  "version": "4.0.0",
   "description": "Get certificates from the windows store.",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
-  "author": "Jose F. Romaniello <jfromaniello@gmail.com> (http://joseoncode.com)",
+  "author": "Jose F. Romaniello <jfromaniello@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "mocha": "2.2.1"
   },
   "dependencies": {
     "async": "~0.9.0",
-    "edge": "~0.10.1"
+    "edge": "^5.9.2"
   }
 }
